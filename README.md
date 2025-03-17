@@ -1,4 +1,3 @@
-![pvrstudiomdl][pvrstudiomdl_banner]
 
 ## Overview
 
@@ -13,11 +12,6 @@ This is a cross-platform compatible version of [studiomdl][studiomdl_wiki] for H
 ## Installing & Building
 
 Clone this project.
-
-```sh
-git clone https://github.com/fnky/studiomdl.git
-cd studiomdl
-```
 
 ```sh
 make
