@@ -1,10 +1,10 @@
-![studiomdl][studiomdl_banner]
+![pvrstudiomdl][pvrstudiomdl_banner]
 
 ## Overview
 
-studiomdl compiles [Studio Model Data][SMD] from [QC files][QC] to a [model file][MDL].
+pvrstudiomdl compiles [Studio Model Data][SMD] from [QC files][QC] to a [model file][MDL].
 
-This is a cross-platform compatible version of [studiomdl][studiomdl_wiki] for Half-Life (GoldSrc).
+This is a cross-platform compatible version of [studiomdl][studiomdl_wiki] for Half-Life (GoldSrc) with PVR compressed textures support.
 
 ## Prerequestites
 
